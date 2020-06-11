@@ -1,5 +1,5 @@
 <template>
-    $END$
+    <h2>ERrror</h2>
 </template>
 
 <script>
